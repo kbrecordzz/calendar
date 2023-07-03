@@ -1,6 +1,6 @@
 # calendar
 
-Super simple calendar web "app" (actually: web SITE) for you who have your own web server with PHP on it.
+Super simple calendar web "app" (= web site) for you who have your own web server with PHP on it.
 
 HOW TO USE IT:
 1. Have your own web server with PHP installed on it. If you have this, I assume you know how to set up a website too.
