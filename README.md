@@ -9,6 +9,6 @@ HOW TO USE IT:
 
 BUGS: as of 230703, you need to refresh the site again after having logged in, to actually log in (actually, you are logged in but you don't see the site yet).
 
-LICENSE: kbrecordzz public domain license = use it however you want without needing to credit me (this is basically CC0 but as you see the legal text of my license is much shorter).
+LICENSE: kbrecordzz public domain license = use it however you want without needing to credit me (this is basically CC0 but as you see my license's legal text is much shorter).
 
 /kbrecordzz
