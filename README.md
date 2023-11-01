@@ -1,6 +1,6 @@
 # calendar
 
-# IMPORTANT - This has security flaws. See it as a code example to learn from and not an app to set up and use with the belief that it will work securely.
+# IMPORTANT - This program has security flaws. See it as a code example to learn from and not an app to set up and use with the belief that it will work securely.
 
 Super simple calendar web "app" (= web site) for you who have your own web server with PHP on it.
 
